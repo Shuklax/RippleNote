@@ -4,3 +4,5 @@ Real-time recording app built with WebRTC, React, and Python backend.
 - Local audio/video recording → chunked uploads → S3.
 - Whisper-based transcription service (Python) feeding into LLM summarizer.
 - Built as a 6-day sprint demonstrating high agency + end-to-end execution
+
+
