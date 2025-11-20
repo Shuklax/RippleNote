@@ -10,7 +10,9 @@ Production-ready WebRTC infrastructure for privacy-focused note taking and live 
 - Modular Node.js mediasoup server tailored for containerized deployments
 
 ## Architecture
+<img width="986" height="476" alt="image" src="https://github.com/user-attachments/assets/6a291ddf-e86c-4fb5-9532-d898112140d9" />
 
+<img width="1427" height="911" alt="image" src="https://github.com/user-attachments/assets/740f359c-6766-4cac-8c6a-b57cb93bd4ec" />
 
 
 ## Repository Layout
