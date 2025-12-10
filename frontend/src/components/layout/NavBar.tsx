@@ -11,7 +11,7 @@ const NavBar = () => {
           <NavLink
             to="/"
             className={({ isActive }) =>
-              `block hover:bg-[#222222] text-left py-2 px-6 rounded-lg ${
+              `block text-left py-2 px-6 rounded-lg ${
                 isActive ? "bg-[#3e70ee]" : "hover:bg-[#222222]"
               }`
             }
